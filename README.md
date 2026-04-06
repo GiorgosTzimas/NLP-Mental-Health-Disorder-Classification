@@ -99,7 +99,6 @@ Special attention was given to **F1-score** due to class imbalance.
 - LLMs can be used when flexibility is needed, especially with limited training data  
 - Handling class imbalance and text preprocessing decisions significantly affect results  
 - There is a trade-off between model complexity, computational cost, and deployment feasibility
-- 
 
 ## Impact and Implications
 
