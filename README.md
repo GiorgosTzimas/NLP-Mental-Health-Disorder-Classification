@@ -8,7 +8,7 @@ The project was developed as part of academic coursework for the course Natural 
 ## Dataset
 
 Source: Kaggle
-The dataset that utilized can be found here:
+The dataset that utilized can be found
 <a href="https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health/data" style="text-decoration: underline;">here</a>
 
 **Description:**
